@@ -1,0 +1,5 @@
+D:\MCUX\workspace\i2c\drivers/fsl_power.h:385:20:POWER_DisablePD	16	static
+../source/i2c.c:24:6:ADC0_IRQHandler	8	static
+../source/i2c.c:31:10:increase_color	32	static
+../source/i2c.c:46:10:decrease_color	32	static
+../source/i2c.c:94:5:main	32	static

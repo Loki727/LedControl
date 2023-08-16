@@ -1,0 +1,6 @@
+D:\MCUX\workspace\i2c\drivers/fsl_spi.h:426:24:SPI_GetStatusFlags	16	static
+../source/neopixels.c:13:6:Neopixels_Init	16	static
+../source/neopixels.c:19:6:Neopixels_Send	40	static
+../source/neopixels.c:44:6:Neopixels_Animate	24	static
+../source/neopixels.c:59:6:Neopixels_ShiftL	24	static
+../source/neopixels.c:70:6:Neopixels_ShiftR	24	static

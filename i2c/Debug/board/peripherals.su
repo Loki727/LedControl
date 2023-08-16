@@ -1,0 +1,11 @@
+D:\MCUX\workspace\i2c\CMSIS/core_cm33.h:2378:22:__NVIC_EnableIRQ	16	static
+D:\MCUX\workspace\i2c\CMSIS/core_cm33.h:2575:22:__NVIC_SetPriority	16	static
+D:\MCUX\workspace\i2c\drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+D:\MCUX\workspace\i2c\drivers/fsl_lpadc.h:661:20:LPADC_EnableInterrupts	16	static
+D:\MCUX\workspace\i2c\drivers/fsl_ctimer.h:497:20:CTIMER_StartTimer	16	static
+../board/peripherals.c:116:13:FLEXCOMM1_init	8	static
+../board/peripherals.c:231:13:ADC0_init	8	static
+../board/peripherals.c:302:13:CTIMER0_init	8	static
+../board/peripherals.c:368:13:FLEXCOMM3_init	8	static
+../board/peripherals.c:376:6:BOARD_InitPeripherals_cm33_core0	8	static
+../board/peripherals.c:388:6:BOARD_InitBootPeripherals	8	static
